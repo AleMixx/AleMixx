@@ -65,7 +65,7 @@ I build software to solve my own problems: dashboards, trackers, small tools tha
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMixx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleMixx&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AleMixx&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center"><i>📍 Bari · Politecnico di Bari</i></p>
