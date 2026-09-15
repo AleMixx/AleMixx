@@ -7,7 +7,7 @@
 🧭 About me
 
 Hi, I'm AleMixx! I'm a student passionate about Mathematics, Machine Learning, Robotics and Backend Programming, trying to expand my knowledge everyday.
-I am pursuing a BSc in Computer Science and Automation Engineering at the Polytechnic University of Bari, Apulia, Italy and I build software to solve my own problems: dashboards, trackers, small and autonomous tools that replace Excel sheets or any other manual process. I care as much about the architecture details as about the final result.
+I am pursuing a BSc in Computer Science and Automation Engineering and I build software to solve my own problems: dashboards, trackers, small and autonomous tools that replace Excel sheets or any other manual process. I care as much about the architecture details as about the final result.
 
 
 🔭 Currently working on personal projects for personal finance and fitness tracking
@@ -58,8 +58,5 @@ I am pursuing a BSc in Computer Science and Automation Engineering at the Polyte
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=AleMixx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AleMixx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AleMixx&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center"><i>📍 Bari · Politecnico di Bari</i></p>
+
