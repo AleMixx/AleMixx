@@ -1,19 +1,17 @@
-<h1 align="center">Hi, I'm Ale 👋</h1>
+<h1 align="center">Hi👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Independent+developer;Python+%26+JavaScript;Building+tools+for+myself;Cloudflare+%7C+FastAPI+%7C+React&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Independent+developer;Computer+%26+Science+%26+Student;Building+tools+for+myself;&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 
 🧭 About me
 
+Hi, I'm AleMixx! I'm a student passionate about Mathematics, Machine Learning, Robotics and Backend Programming, trying to expand my knowledge everyday.
+I am pursuing a BSc in Computer Science and Automation Engineering at the Polytechnic University of Bari, Apulia, Italy and I build software to solve my own problems: dashboards, trackers, small and autonomous tools that replace Excel sheets or any other manual process. I care as much about the architecture details as about the final result.
 
-I build software to solve my own problems: dashboards, trackers, small tools that replace Excel sheets or manual processes. I care as much about the architecture details as about the final result.
 
-
-🔭 Currently working on personal projects for finance and fitness tracking
+🔭 Currently working on personal projects for personal finance and fitness tracking
 🌱 Digging deeper into edge/serverless deployment (Cloudflare Workers, D1)
-💬 Ask me about Python, JavaScript, C++, or Java
-
 
 
 🛠️ Stack
@@ -50,19 +48,15 @@ I build software to solve my own problems: dashboards, trackers, small tools tha
   </tr>
 </table>
 
-
-
-📁 Other repositories: algorithms and data structures (Dijkstra, sorting, bisection method, matrices) in C++ and Java.
-
-
+📁 Other repositories about algorithms and data structures in C++ and Java: Dijkstra's Algorithm implemented on a matrix-based Italy map, data structures in Java and sorting algorithms.
 
 
 
 📈 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleMixx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMixx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AleMixx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AleMixx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AleMixx&theme=tokyonight&hide_border=true" />
